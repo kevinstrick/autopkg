@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Description</key>
+    <string>Downloads the latest version of the Onyx Utility for 10.9. Could be modified easily to download versions for other OS's'</string>
+    <key>Identifier</key>
+    <string>com.github.kevinstrick.download.Onyx-10.9</string>
+    <key>Input</key>
+    <dict>
+        <key>RELEASE</key>
+        <string>10.9</string>
+        <key>NAME</key>
+        <string>Onyx</string>
+    </dict>
+    <key>MinimumVersion</key>
+    <string>0.2.0</string>
+    <key>Process</key>
+    <array>
+        <dict>
+            <key>Processor</key>
+            <string>URLDownloader</string>
+            <key>Arguments</key>
+            <dict>
+                <key>url</key>
+                <string>http://joel.barriere.pagesperso-orange.fr/dl/109/OnyX.dmg</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>Processor</key>
+            <string>EndOfCheckPhase</string>
+        </dict>
+    </array>
+</dict>
+</plist>
