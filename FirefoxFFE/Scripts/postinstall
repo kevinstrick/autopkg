@@ -1,0 +1,6 @@
+#!/bin/bash
+
+
+printf "[XRE]\nEnableProfileMigrator=false\n" > "/Applications/Firefox.app/Contents/MacOS/browser/override.ini"
+
+exit 0
