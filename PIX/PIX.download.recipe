@@ -21,7 +21,7 @@
             <key>Arguments</key>
             <dict>
                 <key>appcast_url</key>
-                <string>https://updates.pixsystem.com/products/pixmac/updates.xml?version=2.6.2.1124</string>
+                <string>https://updates.pixsystem.com/products/pixmac/updates.xml?version=2.7.0.1981</string>
             </dict>
         </dict>
         <dict>
