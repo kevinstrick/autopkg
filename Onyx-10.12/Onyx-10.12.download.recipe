@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
     <key>Description</key>
-    <string>Downloads the latest version of the Onyx Utility for 10.11. Could be modified easily to download versions for other OS's'</string>
+    <string>Downloads the latest version of the Onyx Utility for 10.12. Could be modified easily to download versions for other OS's'</string>
     <key>Identifier</key>
-    <string>com.github.kevinstrick.download.Onyx-10.11</string>
+    <string>com.github.kevinstrick.download.Onyx-10.12</string>
     <key>Input</key>
     <dict>
         <key>RELEASE</key>
-        <string>El Capitan</string>
+        <string>Sierra</string>
         <key>NAME</key>
         <string>Onyx</string>
     </dict>
@@ -23,7 +23,7 @@
             <key>Arguments</key>
             <dict>
                 <key>url</key>
-                <string>http://joel.barriere.pagesperso-orange.fr/download/1011/OnyX.dmg</string>
+                <string>http://joel.barriere.pagesperso-orange.fr/download/1012/OnyX.dmg</string>
             </dict>
         </dict>
         <dict>
