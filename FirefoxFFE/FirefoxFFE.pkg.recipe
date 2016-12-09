@@ -20,7 +20,7 @@ combination is offered.</string>
     <key>MinimumVersion</key>
     <string>0.2.0</string>
     <key>ParentRecipe</key>
-    <string>com.github.gilbertpalau-recipes.download.FirefoxESR-Mac</string>
+    <string>com.github.kevinstrick.download.firefox-lastest-esr-en_US</string>
     <key>Process</key>
     <array>
         <dict>
@@ -76,7 +76,7 @@ combination is offered.</string>
             <key>Arguments</key>
             <dict>
                 <key>pkgname</key>
-                <string>%NAME% %version%esr FFE</string>
+                <string>%NAME%-%version%esr-FFE</string>
                 <key>pkg_request</key>
                 <dict>
                     <key>pkgdir</key>
