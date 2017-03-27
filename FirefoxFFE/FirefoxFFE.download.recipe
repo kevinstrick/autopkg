@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Description</key>
-    <string>firefox esr</string>
+    <string>Clone of com.github.enterpriseosx.download.FirefoxESR </string>
     <key>Identifier</key>
     <string>com.github.kevinstrick.download.firefox-lastest-esr-en_US</string>
     <key>Input</key>
