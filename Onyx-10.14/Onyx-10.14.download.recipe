@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>Description</key>
-    <string>Downloads the latest version of the Onyx Utility for 10.14. Could be modified easily to download versions for other OS's'</string>
+    <string>Downloads the latest version of the Onyx Utility for 10.14. Could be modified easily to download versions for other OSs'</string>
     <key>Identifier</key>
     <string>com.github.kevinstrick.download.Onyx-10.14</string>
     <key>Input</key>
