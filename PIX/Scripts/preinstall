@@ -1,8 +1,8 @@
 #!/bin/sh
 
-# Remove previous version of Onyx from /Applications/Utilities
 
-if [ -d "$3/Applications/Utilities/Onyx.app" ]; then
-   rm -rf "$3/Applications/Utilities/Onyx.app"
+
+if [ -d "$3/Applications/PIX.app" ]; then
+   rm -rf "$3/Applications/PIX.app"
 fi
 
